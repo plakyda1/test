@@ -16,7 +16,7 @@
 1. 9 зон.
 2. Замощение.
 
-![Способы наложения](https://github.com/plakyda1/test/blob/master/watermark-view.jpg)
+![Способы наложения](https://github.com/plakyda1/test/blob/master/view.jpg)
 
 ##### Установка прозрачности водяного знака
 
