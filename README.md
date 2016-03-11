@@ -9,17 +9,18 @@
 1. Загрузите фоновую картинку (ту на которою хотите поместить водяной знак).
 2. Загрузите сам водяной знак (картинка которая будет помещена на фон).
 
-![Загрузка изображений](https://github.com/plakyda1/https://github.com/plakyda1/raw/master/watermark1down.jpg)
+![Загрузка изображений](https://github.com/plakyda1/master/watermark1down.jpg)
 ##### Способ наложения водяного знака
-Есть 2 способа :
+Есть 2 способа 
+
 1. 9 зон.
 2. Замощение.
 
-![Способы наложения](https://github.com/plakyda1/https://github.com/plakyda1/raw/master/watermark-view.jpg)
+![Способы наложения](https://github.com/plakyda1/master/watermark-view.jpg)
 
 ##### Установка прозрачности водяного знака
 
-![Прозрачность](https://github.com/plakyda1/https://github.com/plakyda1/raw/master/opacity.jpg)
+![Прозрачность](https://github.com/plakyda1/master/opacity.jpg)
 
 ### Установка проекта на компьютер
 
